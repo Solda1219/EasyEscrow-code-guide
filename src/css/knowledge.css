@@ -1,0 +1,92 @@
+.wrapper {
+    display: flex;
+    width: 100%;
+}
+
+#sidebar {
+    width: 250px;
+    position: fixed;
+
+    left: 0;
+    height: 100vh;
+    z-index: 999;
+    background: #f8f9fa;
+    color: #fff;
+    transition: all 0.3s;
+}
+#content {
+    margin-left: 300px
+}
+
+.knowledgeBody {
+    margin-left:15%;
+    margin-right: 15%;
+    margin-top: 80px;
+}
+.mainContent{
+    margin-top: 50px;
+}
+p{
+    margin-top:20px;
+    font-size: 21px;
+    font-family: charter, Georgia, Cambria, "Times New Roman", Times, serif;
+}
+.mainContentPart{
+    margin-top: 30px;
+    
+}
+
+.quote{
+    background: #f8f9fa;
+    padding: 30px;
+    border-radius: 10px;
+}
+.subTitle{
+    margin-top: 50px!important;
+}
+.mainContent div{
+    margin-top: 20px;
+}
+.end{
+    margin-bottom: 100px;
+}
+.imgDes{
+    width: 100%
+}
+.codePart{
+    padding: 20px;
+    background: #f8f9fa;
+}
+
+i{
+    background: #e1e2e4;
+    font-size: 16px;
+  }
+.review{
+    margin-top:100px;
+}
+.avatarImg{
+    width: 50px;
+    border-radius: 50%
+}
+.name{
+    font-size: 21px;
+    font-family: charter, Georgia, Cambria, "Times New Roman", Times, serif;
+}
+.reviewOne{
+    margin-top:20px
+}
+.commentForm{
+    margin-top:100px
+}
+.commentForm label{
+    font-size:21px;
+    font-family: charter, Georgia, Cambria
+}
+.btn .btn-primary{
+    font-size:21px;
+    font-family: charter, Georgia, Cambria
+}
+.search{
+    display: none;
+}
