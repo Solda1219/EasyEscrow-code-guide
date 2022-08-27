@@ -1,7 +1,6 @@
 import * as React from "react";
 // import '../css/tutorial.css';
 import "../css/knowledge.css";
-import { Link } from "react-router-dom";
 
 function FaqComponent(props) {
   return (

@@ -3,7 +3,6 @@ import Header from "./components/header";
 import Tutorial1Component from "./components/tutorial1";
 import Tutorial2Component from "./components/tutorial2";
 import KnowledgeComponent from "./components/knowledge";
-import LonginComponent from "./components/login";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import FaqComponent from "./components/faq";
 
